@@ -1,4 +1,4 @@
-# Remove Bachgound
+# Remove Background
 It's a test of rembg library for python
 
 ## Installation
